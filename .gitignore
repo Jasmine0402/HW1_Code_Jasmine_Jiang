@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Data
+data/
+chest_xray/
+
+# Training outputs
+runs/
+*.pt
+*.pth
+*.ckpt
+
+# Environment
+.env
+.env.*
+
+# macOS
+.DS_Store
